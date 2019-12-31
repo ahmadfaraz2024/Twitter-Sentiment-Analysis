@@ -12,10 +12,11 @@ import numpy as np
 from IPython.display import display
 import matplotlib.pyplot as plt
 countpos=countneg=countneut=0
-CONSUMER_KEY = "hzNYHN9xRlXeKu7g2aj7nWNAI"
-CONSUMER_SECRET = "Xm3ScyKHRL5EBXdr08n1IHuJjO3YLv1ea68Td5rVCVo56SsYNq"
-ACCESS_TOKEN = "78845728-kLsebXB9e0WCdRMxISdaIRbx2pNzgUzsrNSKSbYDy"
-ACCESS_SECRET = "jd7cOjgDi0rysph8kznb4pqofoA0TqFtlUs1RmCJBCPsf"
+#Get the Consumer Key and Access Token from Twitter Developers
+CONSUMER_KEY = ""
+CONSUMER_SECRET = ""
+ACCESS_TOKEN = ""
+ACCESS_SECRET = ""
 #from credentials import *    
 def twitter_setup():
     # Authentication and access using keys:
